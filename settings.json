@@ -1,0 +1,13 @@
+{
+    "editor.lineHeight": 2,
+    "editor.fontSize": 12,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.formatOnSave": true,
+    "editor.cursorBlinking": "phase",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "workbench.tree.indent": 10,
+    "background.backgroundOpacity": [0.9, 0.1, 0.1, 0.1]
+}
