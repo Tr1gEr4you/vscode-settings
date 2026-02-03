@@ -1,0 +1,13 @@
+esbenp.prettier-vscode
+yoavBls.pretty-ts-errors
+prisma.prisma
+manitejaPratha.cursor-midnight-theme
+github.vscode-github-actions
+mhutchie.git-graph
+chadalen.vscode-jetbrains-icon-theme
+ahmadalli.vscode-nginx-conf
+christian-kohler.path-intellisense
+redis.redis-for-vscode
+bradlc.vscode-tailwindcss
+s-nlf-fh.glassit
+katsute.code-background
