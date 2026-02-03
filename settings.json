@@ -15,6 +15,7 @@
     "workbench.tree.indent": 10,
     "workbench.statusBar.visible": false,
     "workbench.editor.showIcons": false, // Убираем иконки на вкладках
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
     "background.backgroundOpacity": [0.9, 0.1, 0.1, 0.1],
     "background.backgroundBlur": ["1", "0", "0", "0"]
     "prettier.printWidth": 100,
@@ -28,4 +29,5 @@
         "editor.defaultFormatter": "Prisma.prisma",
     },
 }
+
 
