@@ -5,6 +5,7 @@ manitejaPratha.cursor-midnight-theme
 github.vscode-github-actions
 mhutchie.git-graph
 chadalen.vscode-jetbrains-icon-theme
+miguelsolorio.symbols
 ahmadalli.vscode-nginx-conf
 christian-kohler.path-intellisense
 redis.redis-for-vscode
