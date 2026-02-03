@@ -17,7 +17,7 @@
     "workbench.navigationControl.enabled": false,
     "workbench.editor.showIcons": false, // Убираем иконки на вкладках
     "workbench.activityBar.location": "top",
-    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "workbench.iconTheme": "symbols",
     "background.backgroundOpacity": [0.9, 0.1, 0.1, 0.1],
     "background.backgroundBlur": ["1", "0", "0", "0"],
     "prettier.printWidth": 100,
@@ -28,7 +28,12 @@
     "window.menuBarVisibility": "toggle",
     "chat.commandCenter.enabled": false,
     "symbols.files.associations": {
+        "*.module.ts": "typescript",
         "*.service.ts": "typescript",
+    },
+    "symbols.folders.associations": {
+        "src": "folder-sky-code",
+        "common": "folder-gray-outline",
     },
     "[prisma]": {
         "editor.defaultFormatter": "Prisma.prisma",
