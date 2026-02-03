@@ -19,6 +19,8 @@
     "background.backgroundBlur": ["1", "0", "0", "0"]
     "prettier.printWidth": 100,
     "prettier.tabWidth": 4,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
     "symbols.files.associations": {
         "*.service.ts": "typescript",
     },
@@ -26,3 +28,4 @@
         "editor.defaultFormatter": "Prisma.prisma",
     },
 }
+
