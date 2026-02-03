@@ -3,11 +3,26 @@
     "editor.fontSize": 12,
     "editor.fontFamily": "JetBrains Mono",
     "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
     "editor.cursorBlinking": "phase",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
     "editor.minimap.enabled": false,
+    "editor.glyphMargin": false,
+    "workbench.colorTheme": "cursor midnight theme",
     "workbench.tree.indent": 10,
-    "background.backgroundOpacity": [0.9, 0.1, 0.1, 0.1]
+    "workbench.statusBar.visible": false,
+    "workbench.editor.showIcons": false, // Убираем иконки на вкладках
+    "background.backgroundOpacity": [0.9, 0.1, 0.1, 0.1],
+    "background.backgroundBlur": ["1", "0", "0", "0"]
+    "prettier.printWidth": 100,
+    "prettier.tabWidth": 4,
+    "symbols.files.associations": {
+        "*.service.ts": "typescript",
+    },
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma",
+    },
 }
